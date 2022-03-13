@@ -12,7 +12,6 @@ namespace laba33
         */
         static void Main(string[] args)
         {
-
             VMBenchmark test = new();
             test.Add(500);
             test.Add(10000, 0, 100);
