@@ -24,6 +24,7 @@
     <ProjectGuid>{f7462de5-fb4d-4319-b19c-6522f0fe555b}</ProjectGuid>
     <RootNamespace>dll</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>mkl_</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
